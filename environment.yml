@@ -1,0 +1,24 @@
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - altair
+  - scikit-learn
+  - openTSNE
+  - umap-learn
+  - scipy
+  - numba
+  - jupyter
+  - pip
+  - pip:
+    - openTSNE
+    - umap-learn
+    - altair
+    - seaborn
+    - matplotlib
+    - scikit-learn
+    - scipy
+    - numba
+    - jupyter
